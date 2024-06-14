@@ -1,0 +1,108 @@
+h1 {
+    color: #fff;
+    font-family:courier,arial,helvetica;
+    width: 12px;
+    height: 50px;
+    font-size: 60px;
+}
+h5{
+font-size: 30px;
+}
+h4{
+    font-size: 50px;
+}
+
+h3{
+font-size: 20px;
+}
+h6{
+font-size: 20px;
+}
+button,input {
+font-size: 20px;
+}
+form {
+    width: auto;
+    height: auto;
+    font-size: 50px;
+
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #35033f;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav {
+    background-color: #f4f4f4;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav a {
+    color: #333;
+    text-decoration: none;
+    padding: 0 10px;
+}
+
+.nike {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+}
+
+.nike {
+    display: flex;
+    /* Define o conteúdo da div como flexível */
+}
+
+.nike img {
+    width: 450px;
+    /* Define a largura das imagens */
+    height: 350px;
+    /* Mantém a proporção da imagem */
+}
+
+
+
+.nike{ max-width: 1500px;
+        margin: 20px auto;
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 16px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        overflow: hidden; /* Para evitar que a altura seja afetada pelo conteúdo flutuante */
+    }
+
+.p{
+overflow: hidden;
+}
+.roupa {
+    display: flex;
+    /* Define o conteúdo da div como flexível */
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+}
+
+ .roupa {
+    display: flex;
+    /* Define o conteúdo da div como flexível */
+}
+
+.container img {
+    width: 150px;
+    /* Define a largura das imagens */
+    height: 200px;
+    /* Mantém a proporção da imagem */}
